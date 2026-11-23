@@ -37,7 +37,7 @@ from urllib.parse import unquote
 
 OS_NAME = "Quintu-OS"
 FIRMWARE_NAME = "quintu-os"
-DEFAULT_PORT = 8778  # PSP-OS 8765, Switch-OS 8766, Windows-OS 8767 ... iOS-OS 8775, Mimi-OS 8776, Quintu-OS 8777, Quintu-OS 8778
+DEFAULT_PORT = 8778  # PSP-OS 8765, Switch-OS 8766, Windows-OS 8767 ... iOS-OS 8775, Mimi-OS 8776, 3DS-OS 8777, Quintu-OS 8778
 
 FROZEN = getattr(sys, "frozen", False)  # the Windows .exe (PyInstaller)
 HERE = Path(sys.executable).resolve().parent if FROZEN else Path(__file__).resolve().parent
