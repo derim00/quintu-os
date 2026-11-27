@@ -126,7 +126,7 @@ modifié.
 ## À savoir
 
 - **Calculatrice** : NumWorks **n0110**, **n0115** ou **n0120**, logiciel
-  officiel **26.4.0** dans le slot A. L'installateur choisit tout seul le
+  officiel **26.4.1** dans le slot A. L'installateur choisit tout seul le
   firmware du modèle branché.
 - **Un seul système dans le slot B** : Quintu-OS remplace 3DS-OS, Mimi-OS,
   iOS-OS, Wii U-OS, Windows-OS, Switch-OS, PSP-OS… (et inversement). Les
